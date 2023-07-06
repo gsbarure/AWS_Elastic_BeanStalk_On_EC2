@@ -21,6 +21,6 @@ jobs:
             application_name: beanstalktesting
             environment_name: Beanstalktesting-env
             version_label: ${{ github.sha }}
-            existing_bucket_name: elasticbeanstalk-us-east-1-354408555228
+            existing_bucket_name: newbucketb
             region: us-east-1
             deployment_package: deploy.zip
